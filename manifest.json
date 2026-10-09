@@ -1,0 +1,17 @@
+{
+  "name": "Oppvaskmaskin – feilsøking",
+  "short_name": "Oppvask-sjekk",
+  "description": "Interaktiv feilsøkings-sjekkliste for oppvaskmaskinen",
+  "start_url": "/oppvaskmaskin-sjekkliste/",
+  "display": "standalone",
+  "background_color": "#f1efe9",
+  "theme_color": "#0b3d2e",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' rx='22' fill='%230b3d2e'/%3E%3Cpath d='M28 52l14 14 30-32' stroke='%23ffffff' stroke-width='9' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
